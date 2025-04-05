@@ -1,4 +1,6 @@
-#include<stdio.h> // Utils
+#include<stdio.h>
+
+// Utils
 
 unsigned int divisors(unsigned int *number) {
 	unsigned int counter = 0;
